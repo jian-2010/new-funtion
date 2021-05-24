@@ -1,1 +1,2 @@
-# new-funtion
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
